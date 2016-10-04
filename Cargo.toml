@@ -1,0 +1,6 @@
+[package]
+name = "ufloat8"
+version = "0.1.0"
+authors = ["Ayke van Laethem <aykevanlaethem@gmail.com>"]
+
+[dependencies]
